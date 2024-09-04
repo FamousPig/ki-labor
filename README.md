@@ -11,7 +11,11 @@ Es wird erwartet, dass ein Studierender ein Expose anfertigt und dieses Expose d
 
 Alle Themen können auf Bachelor- oder Masterniveau bearbeitet werden.
 
-## Themenliste X  (Prof. Poschmann)
+## Themenliste Robotik & KI  (Prof. Poschmann)
+- Wie lassen sich GPT-Archtitekturen, insbesondere Visual Action Models im Bereich der Robotik implementieren? Anwendungen, theoretische Grundlagen, Umsetzung im LAbor mit Roboterhardware
+- Welche Möglichkeiten gibt es, Bilderkennungs-KI auf Edge Computing Devices einzusetzen? Grundlagen, Marktübersicht, Auswahl, Implementierung, Performance Untersuchung
+- Wie kann der Energieverbrauch durch den Einsatz von KI in der Fertigung gemessen und bewertet werden? Gibt es Möglichkeiten zur systematischen Systemgestaltung für die Zielgröße der Energieeffizienz? Grundlagen, Hardware-Software-Auswahl und Programierung, Statistische Versuchplanung und Experimente
+
 
 ## Themenliste Künstliche Intelligenz und Software Engineering (Prof. Rachmann)
 
