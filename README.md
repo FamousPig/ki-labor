@@ -28,5 +28,6 @@ Alle Themen können auf Bachelor- oder Masterniveau bearbeitet werden.
 
 ## KI-Anwendungen in einer Smart City (Prof. Rachmann)
 
-- Wie können moderne *Stadtentwicklungskonzepte* (15-Minuten Stadt, Sustainable Cities etc.) mit künstlicher Intelligenz unterstützt / umgesetzt werden. Es könnten sowohl technische wie auch wirtschaftliche Prüfungen durchgeführt werden.
+- Wie können moderne *Stadtentwicklungskonzepte* (15-Minuten Stadt, Inclusive Architecture, SolaWi, Urban Gardening, Sustainable Cities, Gedenkkultur etc.) mit künstlicher Intelligenz unterstützt / umgesetzt werden. Es könnten sowohl technische wie auch wirtschaftliche Prüfungen durchgeführt werden.
 - Wie können *Open Data* Konzepte in der Stadtentwicklung eingesetzt werden (siehe auch oben)?
+- Wie können *Third Places* mit künstlicher Intelligenz aufgewertet werden? Denken Sie an Bibliotheken, Hochschulen, Theater, Konzerträume, Museen, öffentliche Plätze etc.
