@@ -28,7 +28,7 @@ Alle Themen können auf Bachelor- oder Masterniveau bearbeitet werden.
 - Wie lassen sich moderne Ansätze der *symbolischen KI* in moderner Software einsetzen?
 - Wie können *Open Data Systeme* / Open Science Konzepte in künstlicher Intelligenz eingesetzt werden (siehe auch unten)?
 
-## KI-Anwendungen in einer Smart City (Prof. Rachmann)
+## Künstliche Intelligenz in einer Smart City (Prof. Rachmann)
 
 - Wie können moderne *Stadtentwicklungskonzepte* (15-Minuten Stadt, Inclusive Architecture, SolaWi, Urban Gardening, Sustainable Cities, Gedenkkultur etc.) mit künstlicher Intelligenz unterstützt / umgesetzt werden. Es könnten sowohl technische wie auch wirtschaftliche Prüfungen durchgeführt werden.
 - Wie können *Open Data* Konzepte in der Stadtentwicklung eingesetzt werden (siehe auch oben)?
