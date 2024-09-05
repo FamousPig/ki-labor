@@ -1,6 +1,8 @@
 # Herzlichen Willkommen im KI-Labor des Fachbereich Wirtschaftsingenieurwesen der Hochschule Niederrhein
 
 
+# News
+Schaut in den Workshop zum [AI Act](https://sites.google.com/view/wi2024aiact/) auf der [Internationalen Tagung Wirtschaftsinformatik](https://wi2024.de/) in Würzburg rein. Falls ihr nicht vor Ort seid, lest euch gerne die [Proceedings](https://aisel.aisnet.org/wi/) durch. 
 
 
 
