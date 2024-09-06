@@ -33,3 +33,9 @@ Alle Themen können auf Bachelor- oder Masterniveau bearbeitet werden.
 - Wie können moderne *Stadtentwicklungskonzepte* (15-Minuten Stadt, Inclusive Architecture, SolaWi, Urban Gardening, Sustainable Cities, Gedenkkultur etc.) mit künstlicher Intelligenz unterstützt / umgesetzt werden. Es könnten sowohl technische wie auch wirtschaftliche Prüfungen durchgeführt werden.
 - Wie können *Open Data* Konzepte in der Stadtentwicklung eingesetzt werden (siehe auch oben)?
 - Wie können *Third Places* mit künstlicher Intelligenz aufgewertet werden? Denken Sie an Bibliotheken, Hochschulen, Theater, Konzerträume, Museen, öffentliche Plätze etc.
+
+
+## Künstliche Intelligenz im E-Commerce (Prof. Rachmann)
+
+- Wie werden Large Language Models zur *Produktsuche* eingesetzt? Wie können spezialisierte LLMs gebaut werden, um Suchprozesse im E-Commerce zu unterstützen?
+- Welche Datensets können sinnvoll genutzt werden um moderne KI-Systeme zu unterstützen? Welche Eigenschaften müssen diese Datensets haben?
