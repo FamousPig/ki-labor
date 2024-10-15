@@ -2,7 +2,7 @@
 
 
 # Dateivorlagen
-* Powerpointdatei für Präsentationen im Labor
+* [Powerpointdatei für Präsentationen im Labor](./KI Labor Folienvorlage 2024-10-15.pptx)
 
 
 
