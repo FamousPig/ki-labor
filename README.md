@@ -1,7 +1,7 @@
 # Herzlichen Willkommen im KI-Labor des Fachbereich Wirtschaftsingenieurwesen der Hochschule Niederrhein
 
 
-Im Verzeichnis [Vorlagen](https://github.com/rachmann-alexander/ki-labor/tree/main/Vorlagen) finden Sie eine Vorlage für Powerpointpräsentationen, die sie im Labor halten.
+Im Verzeichnis [Vorlagen](https://github.com/rachmann-alexander/ki-labor/tree/main/Vorlagen) finden Sie eine Vorlage für Powerpointpräsentationen, die sie im Labor halten. Weiterhin finden Sie auch eine Vorlage für ein Poster, wie es z.B. bei den Engineering Days verwendet wird.
 
 
 # Offene Abschlussarbeiten
