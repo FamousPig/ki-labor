@@ -6,6 +6,10 @@
 
 
 
+[link](www.google.de)
+
+
+
 # Offene Abschlussarbeiten
 Alle untenstehenden Themen müssen durch die Studierenden konkretisiert werden. Es wird erwartet, dass sich Studierende mit den Themen auseinandersetzen und sich ein Thema "zu eigen" machen. Allein dadurch können manche Themen mehrfach bearbeitet werden.
 
