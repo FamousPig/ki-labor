@@ -1,12 +1,6 @@
 # Herzlichen Willkommen im KI-Labor des Fachbereich Wirtschaftsingenieurwesen der Hochschule Niederrhein
 
 
-# Dateivorlagen
-* [Powerpointdatei für Präsentationen im Labor](./KI-Labor-Folienvorlage -2024-10-15.pptx)
-
-
-
-[link](KI-Labor-Folienvorlage -2024-10-15.pptx)
 
 
 
