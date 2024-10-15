@@ -6,7 +6,7 @@
 
 
 
-[link](www.google.de)
+[link](./KI-Labor-Folienvorlage -2024-10-15.pptx)
 
 
 
