@@ -6,7 +6,7 @@
 
 
 
-[link](./KI-Labor-Folienvorlage -2024-10-15.pptx)
+[link](KI-Labor-Folienvorlage -2024-10-15.pptx)
 
 
 
