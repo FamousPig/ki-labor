@@ -1,1 +1,0 @@
-Legen Sie bitte hier ihre Präsentationen für 31f KI-Anwendungen ab.
