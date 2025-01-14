@@ -1,1 +1,5 @@
+# Exclude files starting with a tilde (~)
+~*
+
+# Exclude macOS-specific system files
 .DS_Store
