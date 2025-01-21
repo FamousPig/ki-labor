@@ -9,12 +9,23 @@ Alle untenstehenden Themen müssen durch die Studierenden konkretisiert werden. 
 
 Es wird erwartet, dass ein Studierender ein Expose anfertigt und dieses Expose dem betreuenden Professor vorstellt. Dies ist als erster Schritt zur Abschlussarbeit zu verstehen.
 
+Kommen Sie gerne bei Fragen auf uns zu!
+
 Alle Themen können auf Bachelor- oder Masterniveau bearbeitet werden.
 
 ## Themenliste Robotik & KI  (Prof. Poschmann)
-- Wie lassen sich GPT-Archtitekturen, insbesondere Visual Action Models im Bereich der Robotik implementieren? Anwendungen, theoretische Grundlagen, Umsetzung im Labor mit Roboterhardware
+- Wie lassen sich GPT-Archtitekturen, insbesondere Vision Language Action Models im Bereich der Robotik implementieren? Anwendungen, theoretische Grundlagen, Umsetzung im Labor mit Roboterhardware
 - Welche Möglichkeiten gibt es, Bilderkennungs-KI auf Edge Computing Devices einzusetzen? Grundlagen, Marktübersicht, Auswahl, Implementierung, Performance Untersuchung
 - Wie kann der Energieverbrauch durch den Einsatz von KI in der Fertigung gemessen und bewertet werden? Gibt es Möglichkeiten zur systematischen Systemgestaltung für die Zielgröße der Energieeffizienz? Grundlagen, Hardware-Software-Auswahl und Programierung, Statistische Versuchplanung und Experimente
+- Modellierung von Roboteranwendung im ROS-Framework, z.B. Weiterentwicklung eines Schankroboters
+- Entwicklung eines Elektro-Schraubers für den Einsatz in der kollaborativen Robotik und Integration mit den vorhandenen Roboter, z.B. KUKA iiwa
+- Entwicklung eines Zertifizierungsassistenten für KI-Compliance entsprechend des EU-AI-Act
+- Entwicklung einer Roboter-Anwendung unter Nutzung der OPC-UA Companion Specification
+
+## Themenliste Forschung & Praxis (Prof. Poschmann) --> Diese Projekte eignen sich auch besonders gut für Praxissemester und anschließende Bachelorprojekte
+- Tracking von Warenträgern (Schränken) in einer Herstellungsumgebung der Lebensmittelindustrie mit Hilfe von Kameratechnik (KI, Marker) im Labormaßstab und als Realanwendung (mit Kooperationsunternehmen)
+- Untersuchung der Analysemöglichkeiten von qNMR-Spektren durch den Einsatz von MEthoden künstlicher Intelligenz (mit Kooperationsunternehmen)
+- Entwicklung einer modularen KI-Plattform für die Umsetzung von produktiven Anwendungen in kleinen und mittleren Unternehmen
 
 
 ## Themenliste Künstliche Intelligenz und Software Engineering (Prof. Rachmann)
