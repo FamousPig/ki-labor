@@ -11,7 +11,7 @@ Es wird erwartet, dass ein Studierender ein Expose anfertigt und dieses Expose d
 
 Kommen Sie gerne bei Fragen auf uns zu!
 
-Alle Themen können auf Bachelor- oder Masterniveau bearbeitet werden.
+Alle Themen können auf Bachelor- oder Masterniveau bearbeitet werden. Da sich das KI-Labor im Aufbau befindet, können Sie auch Ihre Praxisphase an der Hochschule in diesem Kontext absolvieren.
 
 ## Themenliste Robotik & KI  (Prof. Poschmann)
 - Wie lassen sich GPT-Archtitekturen, insbesondere Vision Language Action Models im Bereich der Robotik implementieren? Anwendungen, theoretische Grundlagen, Umsetzung im Labor mit Roboterhardware
