@@ -21,6 +21,7 @@ Alle Themen können auf Bachelor- oder Masterniveau bearbeitet werden. Da sich d
 - Entwicklung eines Elektro-Schraubers für den Einsatz in der kollaborativen Robotik und Integration mit den vorhandenen Roboter, z.B. KUKA iiwa
 - Entwicklung eines Zertifizierungsassistenten für KI-Compliance entsprechend des EU-AI-Act
 - Entwicklung einer Roboter-Anwendung unter Nutzung der OPC-UA Companion Specification
+- Wie kann eine Simultanübersetzung im Sinne des "Babel-Fish" aus "Per Anhalter durch die Galaxis" realisiert werden? Entwicklung eines ersten Prototypen auf Basis von https://www.nature.com/articles/s41586-024-08359-z 
 
 ## Themenliste Forschung & Praxis (Prof. Poschmann) --> Diese Projekte eignen sich auch besonders gut für Praxissemester und anschließende Bachelorprojekte
 - Tracking von Warenträgern (Schränken) in einer Herstellungsumgebung der Lebensmittelindustrie mit Hilfe von Kameratechnik (KI, Marker) im Labormaßstab und als Realanwendung (mit Kooperationsunternehmen)
