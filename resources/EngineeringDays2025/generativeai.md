@@ -1,0 +1,1 @@
+[Generative AI - Financial Times](https://ig.ft.com/generative-ai/)
