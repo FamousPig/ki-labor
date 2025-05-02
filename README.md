@@ -27,8 +27,34 @@ Alle Themen können auf Bachelor- oder Masterniveau bearbeitet werden. Da sich d
 - Tracking von Warenträgern (Schränken) in einer Herstellungsumgebung der Lebensmittelindustrie mit Hilfe von Kameratechnik (KI, Marker) im Labormaßstab und als Realanwendung (mit Kooperationsunternehmen)
 - Untersuchung der Analysemöglichkeiten von qNMR-Spektren durch den Einsatz von MEthoden künstlicher Intelligenz (mit Kooperationsunternehmen)
 - Entwicklung einer modularen KI-Plattform für die Umsetzung von produktiven Anwendungen in kleinen und mittleren Unternehmen
+***
+Projekte mit der Firma  [SCHUNK](https://schunk.com/de/de)   (auch als Praxisssemester /Praktikum!):
+1.	Synthetische Datengenerierung für das 2D Grasping-Kit:
+Frage: Sind reale Bilder als Grundlage noch notwendig?
+Mehrwert Produkt: Verbesserung/Beschleunigung des Einlernprozess
 
+2.	Tiefenschätzung für das 2D Grasping-Kit:
+Frage: Ist eine Höhenangabe der Objekte noch notwendig?
+Mehrwert Produkt: Verbesserung/Beschleunigung des Einlernprozess
 
+3.	Anomalieerkennung für das 2D Grasping-Kit:
+Frage: Kann eine integrierte oder nachgelagerte Anomalieerkennung integriert werden?
+Mehrwert Produkt: Erweiterung der Grundfunktion
+
+4.	CAD Rekonstruktion für das 2D Grasping-Kit:
+Frage: Können aktuelle Rekonstruktionsalgorithmen eine Basis für Trainingsdaten erzeugen
+Mehrwert Produkt: Erweiterung der Grundfunktion
+
+5.	Szenen Rekonstruktion und Kalibrierung für das 2D Grasping-Kit:
+Frage: Können aktuelle Rekonstruktionsalgorithmen eine Basis für die Kalibrierung erzeugen
+Mehrwert Produkt: Verbesserung/Beschleunigung des Kalibrierungsprozesses
+
+6.	Explainable AI für das 2D Grasping-Kit:
+Frage: Können Vision AI Algorithmen nachvollziehbar dargestellt werden?
+Mehrwert Produkt: Verbesserung der Kundenakzeptanz
+***
+
+********
 ## Themenliste Künstliche Intelligenz und Software Engineering (Prof. Rachmann)
 
 - Wie können Large Language Models im *Software Engineering* eingesetzt werden? Denken Sie an den Einsatz im Requirements Engineering, in der Modellierung, Code-Generierung, Testing, Deployment etc.
