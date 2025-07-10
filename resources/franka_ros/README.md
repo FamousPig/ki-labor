@@ -43,7 +43,7 @@ pro enable realtime-kernel
 
 ### Selbst kompilieren
 
-Eine andere Möglichkeit ist es, den Quellcode des Kernels selbst herunterzuladen, zu patchen und zu kompilieren. Das genaue Verfahren ist je nach Distribution und Version unterschiedlich. Eventuell befinden sich Verfahrenshinweise in der [franka_ros-Dokumentation](https://github.com/frankarobotics/docs/blob/master/source/installation_linux.rst) (Abschnitt "Setting up the real-time kernel"). Falls du dieser Anleitung folgst, musst du den Befehl "debpkg" eventuell mit "bindebpkg ersetzen."
+Eine andere Möglichkeit ist es, den Quellcode des Kernels selbst herunterzuladen, zu patchen und zu kompilieren. Das genaue Verfahren ist je nach Distribution und Version unterschiedlich. Eventuell befinden sich Verfahrenshinweise in der [franka_ros-Dokumentation](https://frankarobotics.github.io/docs/installation_linux.html) (Abschnitt "Setting up the real-time kernel"). Falls du dieser Anleitung folgst, musst du den Befehl "debpkg" eventuell mit "bindebpkg ersetzen."
 
 ### Konfiguration
 
